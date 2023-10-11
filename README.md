@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Java desktop chat application is a real-time messaging platform designed for secure and responsive communication. It leverages Java, socket programming, multithreading, and object-oriented programming (OOP) principles to facilitate real-time messaging between multiple users.
+Chat is a Java desktop chat application that allows real-time messaging, designed for secure and responsive communication. It leverages Java, socket programming, multithreading, and object-oriented programming (OOP) principles to facilitate real-time messaging between multiple users.
 
 ## Features
 
